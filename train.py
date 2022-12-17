@@ -230,7 +230,7 @@ def main():
     parser = argparse.ArgumentParser()
 
     parser.add_argument('--group_name', default=None)
-    parser.add_argument('--input_wavs_dir', default='Arab/wavs')
+    parser.add_argument('--input_wavs_dir', default='Arab/wav')
     parser.add_argument('--input_mels_dir', default='ft_dataset')
     parser.add_argument('--input_training_file', default='Arab/training.txt')
     parser.add_argument('--input_validation_file', default='Arab/validation.txt')
