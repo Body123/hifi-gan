@@ -1,313 +1,159 @@
-/content/hifi-gan/Arab/wavs/ARA NORM  0938.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0196.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1553.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0694.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1485.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0431.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0457.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1181.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0353.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1612.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1740.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0211.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0528.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0259.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1578.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0459.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0969.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0595.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0817.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1134.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0600.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1258.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0374.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1708.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0305.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0560.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0695.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0641.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1656.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0117.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0666.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1733.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0310.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0665.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1459.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0871.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0852.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0009.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1057.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0890.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1088.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1306.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0209.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0083.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1415.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1452.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0748.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0249.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1721.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1016.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0174.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0722.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0780.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1757.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0008.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0397.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0173.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1387.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0442.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0129.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1591.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0898.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1218.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0241.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1690.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0267.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0477.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0639.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0930.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0480.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0027.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1581.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0572.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0398.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0517.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1700.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0763.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1712.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0058.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1671.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1554.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1516.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1197.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0052.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1364.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0546.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0724.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0994.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0136.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1146.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1203.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0558.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1115.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0137.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0613.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1196.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1657.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0113.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1273.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0030.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1494.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0585.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0845.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1683.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1592.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1802.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0847.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0807.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0294.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0225.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0782.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0736.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1417.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1308.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1604.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0761.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1268.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0128.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0855.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0130.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0808.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0805.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0866.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1136.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1180.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1560.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0840.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1245.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1229.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1611.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0006.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0906.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0145.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0974.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0451.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0175.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1439.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0413.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0892.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0392.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1663.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1101.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0022.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0702.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0020.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0543.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0500.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1250.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0381.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1689.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1403.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0858.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0520.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0553.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1695.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0053.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0336.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0339.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0101.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1114.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0271.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1638.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0680.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0655.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0792.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1653.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1257.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0716.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0983.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0192.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0972.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1750.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0317.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1472.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0605.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0769.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1449.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0505.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0488.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1210.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1541.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1019.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1601.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0937.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0489.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1618.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1686.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0036.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0143.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1012.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1783.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0215.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0919.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0713.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1048.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1530.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1117.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1237.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0752.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1448.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0524.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0289.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0118.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1767.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0997.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0836.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0790.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1024.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0165.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0774.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0043.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1314.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1743.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1688.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0734.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1565.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0626.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0573.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1331.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0530.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1685.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0720.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0206.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0262.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0636.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0802.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0347.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1321.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1684.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0779.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1594.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0210.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1083.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1204.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0081.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1375.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1567.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0461.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1271.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0693.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1294.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1290.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0729.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1317.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0056.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1409.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0712.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0239.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1687.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0144.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1145.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0291.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0256.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1269.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0098.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0299.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1654.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1041.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0948.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0801.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0355.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0251.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1444.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0607.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0877.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1465.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0158.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0481.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1110.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1200.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1648.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0244.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1583.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0831.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0287.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1506.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1606.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1732.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0561.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1593.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0815.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0486.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0764.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0535.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1669.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1279.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1597.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0868.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1778.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0014.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0519.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1191.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0961.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0654.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0504.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1201.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0751.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1254.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1764.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1614.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0235.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0063.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1003.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1075.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1138.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1752.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0644.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1313.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0441.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1672.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  1673.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0795.wav
-/content/hifi-gan/Arab/wavs/ARA NORM  0395.wav
+/content/hifi-gan/Arab/wav/03DC4589_79BA_44CA_8DF8_F93D60D7E33A_speaker1_align_434.29_436.1.wav
+/content/hifi-gan/Arab/wav/03DC4589_79BA_44CA_8DF8_F93D60D7E33A_speaker1_align_471.72_474.46.wav
+/content/hifi-gan/Arab/wav/03DC4589_79BA_44CA_8DF8_F93D60D7E33A_speaker1_align_653.67_656.11.wav
+/content/hifi-gan/Arab/wav/03DC4589_79BA_44CA_8DF8_F93D60D7E33A_speaker1_align_691.68_696.28.wav
+/content/hifi-gan/Arab/wav/03DC4589_79BA_44CA_8DF8_F93D60D7E33A_speaker1_align_696.28_699.5.wav
+/content/hifi-gan/Arab/wav/03DC4589_79BA_44CA_8DF8_F93D60D7E33A_speaker1_align_699.96_702.94.wav
+/content/hifi-gan/Arab/wav/03DC4589_79BA_44CA_8DF8_F93D60D7E33A_speaker1_align_881.83_884.49.wav
+/content/hifi-gan/Arab/wav/0635FE44_7EA6_4863_A0FD_FD60831B2EFC_speaker1_align_1238.27_1241.58.wav
+/content/hifi-gan/Arab/wav/0635FE44_7EA6_4863_A0FD_FD60831B2EFC_speaker1_align_1532.37_1535.96.wav
+/content/hifi-gan/Arab/wav/0635FE44_7EA6_4863_A0FD_FD60831B2EFC_speaker1_align_154.88_159.02.wav
+/content/hifi-gan/Arab/wav/0635FE44_7EA6_4863_A0FD_FD60831B2EFC_speaker1_align_159.54_162.72.wav
+/content/hifi-gan/Arab/wav/0635FE44_7EA6_4863_A0FD_FD60831B2EFC_speaker1_align_167.7_171.37.wav
+/content/hifi-gan/Arab/wav/0635FE44_7EA6_4863_A0FD_FD60831B2EFC_speaker1_align_1701.14_1705.22.wav
+/content/hifi-gan/Arab/wav/0635FE44_7EA6_4863_A0FD_FD60831B2EFC_speaker1_align_181.98_185.5.wav
+/content/hifi-gan/Arab/wav/0635FE44_7EA6_4863_A0FD_FD60831B2EFC_speaker1_align_185.5_188.13.wav
+/content/hifi-gan/Arab/wav/0635FE44_7EA6_4863_A0FD_FD60831B2EFC_speaker1_align_1872.75_1874.68.wav
+/content/hifi-gan/Arab/wav/0635FE44_7EA6_4863_A0FD_FD60831B2EFC_speaker1_align_1874.68_1878.16.wav
+/content/hifi-gan/Arab/wav/0635FE44_7EA6_4863_A0FD_FD60831B2EFC_speaker1_align_199.34_202.77.wav
+/content/hifi-gan/Arab/wav/0635FE44_7EA6_4863_A0FD_FD60831B2EFC_speaker1_align_21.0_24.64.wav
+/content/hifi-gan/Arab/wav/0635FE44_7EA6_4863_A0FD_FD60831B2EFC_speaker1_align_24.76_29.12.wav
+/content/hifi-gan/Arab/wav/0635FE44_7EA6_4863_A0FD_FD60831B2EFC_speaker1_align_354.32_359.98.wav
+/content/hifi-gan/Arab/wav/0635FE44_7EA6_4863_A0FD_FD60831B2EFC_speaker1_align_57.61_61.86.wav
+/content/hifi-gan/Arab/wav/0635FE44_7EA6_4863_A0FD_FD60831B2EFC_speaker1_align_726.67_729.44.wav
+/content/hifi-gan/Arab/wav/0635FE44_7EA6_4863_A0FD_FD60831B2EFC_speaker1_align_734.23_737.29.wav
+/content/hifi-gan/Arab/wav/0D8363CF_3891_49C9_A9B1_857BFBBFD914_speaker1_align_31.08_35.32.wav
+/content/hifi-gan/Arab/wav/10C2FE1A_C340_4AE0_9C26_F6337916FFD9_speaker1_align_106.25_109.56.wav
+/content/hifi-gan/Arab/wav/10C2FE1A_C340_4AE0_9C26_F6337916FFD9_speaker1_align_1096.04_1100.04.wav
+/content/hifi-gan/Arab/wav/10C2FE1A_C340_4AE0_9C26_F6337916FFD9_speaker1_align_110.28_115.9.wav
+/content/hifi-gan/Arab/wav/10C2FE1A_C340_4AE0_9C26_F6337916FFD9_speaker1_align_1253.95_1258.69.wav
+/content/hifi-gan/Arab/wav/10C2FE1A_C340_4AE0_9C26_F6337916FFD9_speaker1_align_1264.62_1270.82.wav
+/content/hifi-gan/Arab/wav/10C2FE1A_C340_4AE0_9C26_F6337916FFD9_speaker1_align_1482.96_1486.33.wav
+/content/hifi-gan/Arab/wav/10C2FE1A_C340_4AE0_9C26_F6337916FFD9_speaker1_align_1692.89_1696.19.wav
+/content/hifi-gan/Arab/wav/10C2FE1A_C340_4AE0_9C26_F6337916FFD9_speaker1_align_1707.81_1711.58.wav
+/content/hifi-gan/Arab/wav/10C2FE1A_C340_4AE0_9C26_F6337916FFD9_speaker1_align_1889.71_1894.58.wav
+/content/hifi-gan/Arab/wav/10C2FE1A_C340_4AE0_9C26_F6337916FFD9_speaker1_align_2011.79_2013.43.wav
+/content/hifi-gan/Arab/wav/10C2FE1A_C340_4AE0_9C26_F6337916FFD9_speaker1_align_2089.23_2092.15.wav
+/content/hifi-gan/Arab/wav/10C2FE1A_C340_4AE0_9C26_F6337916FFD9_speaker1_align_2097.95_2102.19.wav
+/content/hifi-gan/Arab/wav/10C2FE1A_C340_4AE0_9C26_F6337916FFD9_speaker1_align_2102.19_2106.93.wav
+/content/hifi-gan/Arab/wav/10C2FE1A_C340_4AE0_9C26_F6337916FFD9_speaker1_align_2180.09_2186.86.wav
+/content/hifi-gan/Arab/wav/10C2FE1A_C340_4AE0_9C26_F6337916FFD9_speaker1_align_30.6_34.37.wav
+/content/hifi-gan/Arab/wav/10C2FE1A_C340_4AE0_9C26_F6337916FFD9_speaker1_align_34.64_38.29.wav
+/content/hifi-gan/Arab/wav/10C2FE1A_C340_4AE0_9C26_F6337916FFD9_speaker1_align_366.78_370.33.wav
+/content/hifi-gan/Arab/wav/10C2FE1A_C340_4AE0_9C26_F6337916FFD9_speaker1_align_38.47_42.32.wav
+/content/hifi-gan/Arab/wav/10C2FE1A_C340_4AE0_9C26_F6337916FFD9_speaker1_align_60.48_66.61.wav
+/content/hifi-gan/Arab/wav/10C2FE1A_C340_4AE0_9C26_F6337916FFD9_speaker1_align_66.61_72.32.wav
+/content/hifi-gan/Arab/wav/10C2FE1A_C340_4AE0_9C26_F6337916FFD9_speaker1_align_665.1_669.72.wav
+/content/hifi-gan/Arab/wav/10C2FE1A_C340_4AE0_9C26_F6337916FFD9_speaker1_align_669.75_672.9.wav
+/content/hifi-gan/Arab/wav/10C2FE1A_C340_4AE0_9C26_F6337916FFD9_speaker1_align_673.42_677.4.wav
+/content/hifi-gan/Arab/wav/10C2FE1A_C340_4AE0_9C26_F6337916FFD9_speaker1_align_72.32_78.92.wav
+/content/hifi-gan/Arab/wav/10C2FE1A_C340_4AE0_9C26_F6337916FFD9_speaker1_align_828.78_835.7.wav
+/content/hifi-gan/Arab/wav/10C2FE1A_C340_4AE0_9C26_F6337916FFD9_speaker1_align_91.04_97.55.wav
+/content/hifi-gan/Arab/wav/10C2FE1A_C340_4AE0_9C26_F6337916FFD9_speaker1_align_969.41_975.52.wav
+/content/hifi-gan/Arab/wav/1613376D_5205_44FC_AE2C_953753D38352_speaker1_align_1874.04_1877.11.wav
+/content/hifi-gan/Arab/wav/1613376D_5205_44FC_AE2C_953753D38352_speaker1_align_1877.11_1880.24.wav
+/content/hifi-gan/Arab/wav/1613376D_5205_44FC_AE2C_953753D38352_speaker1_align_1880.24_1886.84.wav
+/content/hifi-gan/Arab/wav/1613376D_5205_44FC_AE2C_953753D38352_speaker1_align_1886.84_1891.42.wav
+/content/hifi-gan/Arab/wav/1613376D_5205_44FC_AE2C_953753D38352_speaker1_align_1891.71_1895.47.wav
+/content/hifi-gan/Arab/wav/1613376D_5205_44FC_AE2C_953753D38352_speaker1_align_1908.36_1912.39.wav
+/content/hifi-gan/Arab/wav/1671C240_501E_47F2_82A4_9DB05483FE0D_speaker1_align_2225.88_2227.35.wav
+/content/hifi-gan/Arab/wav/1671C240_501E_47F2_82A4_9DB05483FE0D_speaker1_align_26.54_29.54.wav
+/content/hifi-gan/Arab/wav/1671C240_501E_47F2_82A4_9DB05483FE0D_speaker1_align_2864.32_2864.66.wav
+/content/hifi-gan/Arab/wav/1671C240_501E_47F2_82A4_9DB05483FE0D_speaker1_align_41.87_46.2.wav
+/content/hifi-gan/Arab/wav/1671C240_501E_47F2_82A4_9DB05483FE0D_speaker1_align_46.93_48.83.wav
+/content/hifi-gan/Arab/wav/1671C240_501E_47F2_82A4_9DB05483FE0D_speaker1_align_826.35_828.4.wav
+/content/hifi-gan/Arab/wav/1B4D9B1E_6075_464C_91AA_6D2C6E998D9F_speaker1_align_43.1_48.05.wav
+/content/hifi-gan/Arab/wav/1B4D9B1E_6075_464C_91AA_6D2C6E998D9F_speaker1_align_48.38_52.82.wav
+/content/hifi-gan/Arab/wav/1B4D9B1E_6075_464C_91AA_6D2C6E998D9F_speaker1_align_53.48_59.96.wav
+/content/hifi-gan/Arab/wav/1B4D9B1E_6075_464C_91AA_6D2C6E998D9F_speaker1_align_60.39_64.76.wav
+/content/hifi-gan/Arab/wav/1D91A579_4CA4_4AC2_A75E_A527C1D1D707_speaker1_align_1270.01_1273.13.wav
+/content/hifi-gan/Arab/wav/1D91A579_4CA4_4AC2_A75E_A527C1D1D707_speaker1_align_281.32_285.4.wav
+/content/hifi-gan/Arab/wav/1D91A579_4CA4_4AC2_A75E_A527C1D1D707_speaker1_align_285.54_288.52.wav
+/content/hifi-gan/Arab/wav/1D91A579_4CA4_4AC2_A75E_A527C1D1D707_speaker1_align_302.7_306.4.wav
+/content/hifi-gan/Arab/wav/1D91A579_4CA4_4AC2_A75E_A527C1D1D707_speaker1_align_577.35_580.2.wav
+/content/hifi-gan/Arab/wav/1D91A579_4CA4_4AC2_A75E_A527C1D1D707_speaker1_align_580.39_584.82.wav
+/content/hifi-gan/Arab/wav/1D91A579_4CA4_4AC2_A75E_A527C1D1D707_speaker1_align_584.82_590.57.wav
+/content/hifi-gan/Arab/wav/1D91A579_4CA4_4AC2_A75E_A527C1D1D707_speaker1_align_68.91_73.58.wav
+/content/hifi-gan/Arab/wav/1D91A579_4CA4_4AC2_A75E_A527C1D1D707_speaker1_align_73.58_77.3.wav
+/content/hifi-gan/Arab/wav/1D91A579_4CA4_4AC2_A75E_A527C1D1D707_speaker1_align_80.94_85.54.wav
+/content/hifi-gan/Arab/wav/1D91A579_4CA4_4AC2_A75E_A527C1D1D707_speaker1_align_92.06_96.05.wav
+/content/hifi-gan/Arab/wav/1D91A579_4CA4_4AC2_A75E_A527C1D1D707_speaker1_align_96.37_101.93.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_1138.32_1141.15.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_1180.57_1183.68.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_1411.91_1419.85.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_1519.3_1523.81.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_1697.93_1701.98.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_1702.31_1706.76.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_1802.72_1806.79.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_1806.79_1814.61.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_1825.02_1829.12.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_1847.01_1851.37.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_1852.28_1856.21.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_2108.45_2111.0.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_2119.06_2122.28.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_2122.28_2125.49.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_2125.49_2128.54.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_2132.64_2135.84.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_2135.84_2139.76.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_2139.76_2145.0.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_2145.03_2149.32.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_2150.06_2152.91.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_2152.94_2158.03.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_2158.03_2160.65.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_2160.65_2165.1.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_238.84_244.86.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_244.86_249.0.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_249.0_254.45.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_254.45_260.11.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_260.11_266.08.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_2644.42_2647.94.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_266.08_269.34.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_272.58_278.86.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_283.03_287.29.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_2837.1_2843.24.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_2920.93_2923.33.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_61.1_68.58.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_792.98_795.68.wav
+/content/hifi-gan/Arab/wav/1E66CEAE_FD0D_4531_B559_42DBA0534BA1_speaker1_align_795.68_801.18.wav
+/content/hifi-gan/Arab/wav/22FC8150_99AD_461B_83B6_AB72D81B8941_speaker1_align_32.22_37.58.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_1050.68_1054.99.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_1060.84_1066.81.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_1093.79_1098.04.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_1247.95_1254.21.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_1384.25_1387.08.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_1391.79_1394.82.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_1502.44_1504.01.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_1508.41_1510.92.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_1802.08_1805.28.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_1811.0_1815.09.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_1815.09_1817.09.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_1821.66_1824.36.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_1836.95_1839.43.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_193.42_199.14.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_199.14_202.58.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_202.58_207.75.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_2024.8_2028.04.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_2036.75_2038.83.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_208.09_211.76.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_2124.16_2128.74.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_2128.74_2131.23.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_2131.36_2136.42.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_2143.62_2147.04.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_224.22_226.6.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_2347.35_2351.06.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_2512.8_2519.1.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_2519.32_2523.68.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_2531.25_2534.25.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_2752.36_2756.31.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_2756.43_2758.65.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_2763.74_2766.43.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_2766.43_2768.98.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_2779.32_2784.06.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_2872.7_2876.2.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_317.88_320.82.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_39.27_44.39.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_44.85_50.83.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_462.0_466.33.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_466.35_470.16.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_470.16_473.66.wav
+/content/hifi-gan/Arab/wav/245F5542_5E31_48D0_8B34_AD910AB81A50_speaker1_align_51.21_56.49.wav
