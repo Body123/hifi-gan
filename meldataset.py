@@ -113,10 +113,10 @@ class MelDataset(torch.utils.data.Dataset):
     def __getitem__(self, index):
         filename = self.audio_files[index]
         if self._cache_ref_count == 0:
-            audio_old, sampling_rate = load_wav(filename)
-            audio_old = audio_old / MAX_WAV_VALUE
+            audio, sampling_rate = load_wav(filename)
+            audio = audio / MAX_WAV_VALUE
             if not self.fine_tuning:
-                audio = normalize(audio_old) * 0.95
+                audio = normalize(audio) * 0.95
             self.cached_wav = audio
             if sampling_rate != self.sampling_rate:
                 raise ValueError("{} SR doesn't match target {} SR".format(
