@@ -13,8 +13,8 @@ MAX_WAV_VALUE = 32768.0
 
 
 def load_wav(full_path):
-    # sampling_rate, data = read(full_path)
-    data,sampling_rate = librosa.load(full_path, sr=22050)
+    sampling_rate, data = read(full_path)
+    #data,sampling_rate = librosa.load(full_path, sr=22050)
     return data, sampling_rate
 
 
